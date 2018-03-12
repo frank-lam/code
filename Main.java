@@ -26,7 +26,14 @@
  * bom2*2，bom3*1(bom2 2套，bom3 1套)
  * 注：输出结果有多个时可以乱序
  */
-package com.lk.example;
+ 
+
+3,3
+2,3,1
+bom1,2,1,1
+bom2,1,1,0
+bom3,0,1,1
+
 
 import java.util.ArrayList;
 import java.util.HashMap;
